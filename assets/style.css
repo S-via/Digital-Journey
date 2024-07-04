@@ -36,5 +36,12 @@
     
     width: 369px;
     background-color: #104c59;
+    border-radius: 51px;
     
+}
+.myimage
+{
+    margin:0%;
+    border-radius: 800px;
+
 }
