@@ -8,19 +8,22 @@
     
     background-color:#f2ffcc;
    display:block;
-    margin: 10px;
-    border: 10px;
-    padding: 20px;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
     border-radius: 122px;
     
 
 }
-.header img
+.h1{
+
+}
+.signature
 {
     display:block;
-    width: 601px;
-    height: 363px;
-    border-radius: 109px;
+    width: 575px;
+    height: 351px;
+    border-radius: 5000px;
 
 }
 .nav
