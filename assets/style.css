@@ -11,12 +11,19 @@
     margin: 10px;
     border: 10px;
     padding: 20px;
+    border-radius: 122px;
+    
 
 }
-#signature
+.header img
 {
     display:block;
-    width: 400px;
-    height: 400px;
+    width: 601px;
+    height: 363px;
+    border-radius: 109px;
 
+}
+.nav
+{
+    text-align: left;
 }
