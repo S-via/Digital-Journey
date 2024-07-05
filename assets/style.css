@@ -41,7 +41,7 @@
 }
 
 
-aside{
+.leftside{
     
     width: 432px;
     height:1500px;
@@ -61,7 +61,30 @@ aside{
 {
     height:61px;
     width:67px;
+
 }
-.backround{
-    background-image: ;
+.rightside
+{
+    width: 946px;
+    height:500px;
+    background-color: lightblue;
+    display:flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    float: right;
+    flex-direction: column;
+}
+#aboutme
+{ width: 150px;
+    height:100px;
+    background-color: greenyellow;
+    border-radius: 51px;
+
+}
+#work
+{
+    width: 150px;
+    height:100px;
+    background-color: greenyellow;
+    border-radius: 51px;
 }
