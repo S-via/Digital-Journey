@@ -41,9 +41,9 @@
 }
 
 
-.leftside{
+aside{
     
-    width: 369px;
+    width: 432px;
     height:1500px;
     background-color: #104c59;
     border-radius: 51px;
@@ -56,4 +56,12 @@
     border-radius: 800px;
     height:443px;
 
+}
+.contact
+{
+    height:61px;
+    width:67px;
+}
+.backround{
+    background-image: ;
 }
