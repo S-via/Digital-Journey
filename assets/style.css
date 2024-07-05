@@ -6,7 +6,7 @@
 .header
 {
     
-    background-color:#f2ffcc;
+    background-color:#f5f8ed;
    display:flex;
     margin: 0px;
     border: 0px;
@@ -29,9 +29,14 @@
 .nav
 {
     display:flex;
-    flex-direction: row;
+    height:102px;
+    flex-wrap: nowrap;
+    
+    flex-direction: row-reverse;
     align-items: center;
-    height:88px;
+    
+    
+    height:102px;
 }
 .link
 {
@@ -40,21 +45,31 @@
 
 }
 
+.backround
+{
+    height: 100px;
+    width: 100px;
+    margin-bottom: ;
+    background-image: url("assets/backroundbricks.jpg");
+    background-size: cover;
+    background-position: center;
+}
 
 .leftside{
     
     width: 432px;
-    height:1500px;
+    height:711px;
     background-color: #104c59;
     border-radius: 51px;
+    float:left;
     
     
 }
 .myimage
 {
     margin:0%;
-    border-radius: 800px;
-    height:443px;
+    border-radius: 200mm;
+    height:331px;
 
 }
 .contact
@@ -63,9 +78,9 @@
     width:67px;
 
 }
-.rightside
+.Rightside
 {
-    width: 946px;
+    width: 500px;
     height:500px;
     background-color: lightblue;
     display:flex;
@@ -73,6 +88,7 @@
     align-items: flex-end;
     float: right;
     flex-direction: column;
+    float:right;
 }
 #aboutme
 { width: 150px;
