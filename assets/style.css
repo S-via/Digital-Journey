@@ -60,17 +60,6 @@ justify-content: center;
 }
 
 
-
-.backround
-{
-    height: 100px;
-    width: 100px;
-    margin-bottom: ;
-    background-image: url("assets/backroundbricks.jpg");
-    background-size: cover;
-    background-position: center;
-}
-
 .leftside{
     
     width: 432px;
@@ -107,7 +96,7 @@ justify-content: center;
     float:right;
 }
 #aboutme
-{ width: 150px;
+{ width: 465px;
     height:100px;
     background-color: greenyellow;
     border-radius: 51px;
