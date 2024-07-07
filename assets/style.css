@@ -2,19 +2,18 @@
     margin: 0;
     padding:0;
 }
-
-.header
+body
 {
+    background-image: url("backroundbricks.jpg");
+    background-size: cover;
     
-    background-color:#f5f8ed;
-   display:flex;
-    margin: 0px;
-    border: 0px;
-    padding: 0px;
-    border-radius: 122px;
     
-    height:165px;
-    
+     padding: 72px;
+    }
+   
+.head
+{
+ 
 
 }
 
@@ -24,6 +23,24 @@
     width: 439px;
     height: 253px;
     border-radius: 5000px;
+
+
+}
+.nav
+{
+
+    display:flex;
+    flex-direction:row;
+justify-content: flex-end;
+    align-items: stretch;
+    
+}
+
+#link
+{
+    display:flex;
+    flex-wrap: wrap;
+    width:86px;
 
 }
 
@@ -40,25 +57,7 @@
     height:102px;
 }
 
-.nav
-{
-
-    display:flex;
-    height:62px;
-    flex-wrap: nowrap;
-justify-content: center;
-    align-items: center;
-    
-}
-
-#link
-{
-    display:flex;
-    flex-wrap: wrap;
-    width:86px;
-
-}
-
+main{}
 
 .leftside{
     
@@ -70,6 +69,7 @@ justify-content: center;
     
     
 }
+
 .myimage
 {
     margin:0%;
@@ -77,6 +77,9 @@ justify-content: center;
     height:331px;
 
 }
+
+#contactme {}
+
 .contact
 {
     height:61px;
