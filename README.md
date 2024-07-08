@@ -7,14 +7,14 @@ In this repository portfolio I will show case the projects I have worked on with
 ## Prework-Study-guide
 My very first deployed reposotory
 I used HTML , CSS , JAVASCRIPT
-
-! [firstrepo](assets/pws.png)
+![firstrepo](assets/pws.png)
 
 
 
 ## Challenge-One
 My first challenge was to refactor code and make it with more accessible 
 I used HTML , CSS , JAVASCRIPT
+![challengeone](assets/C1.png)
 
 ## Digital-Journey
 My wireframe mockup to showcase my deployed portfolio with the skills i have gain and too improve
