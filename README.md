@@ -4,9 +4,10 @@ In this repository portfolio I will show case the projects I have worked on with
 
 # Projects
 
-## Prework-Studyguide
+## Prework-Study-guide
 My very first deployed reposotory
 I used HTML , CSS , JAVASCRIPT
+https://vscode.dev/github/S-via/Digital-Journey/blob/main/assets/pws.png
 
 
 ## Challenge-One
@@ -18,10 +19,10 @@ My wireframe mockup to showcase my deployed portfolio with the skills i have gai
 I used HTML , CSS
 
 # Skills
-*HTML
-*CSS
-GIT 
-GIT HUB
+* HTML
+* CSS
+* GIT 
+* GIT HUB
 
 # About me 
 As a female aspiring freelancer to support entrepreneurship 
@@ -34,10 +35,10 @@ I had a transformative experience! My goal is to nurture and showcase that unapp
 -Git Hub: https://github.com/S-via
 
 # References
-Color Hues : https://www.color-hex.com/
-Backround Image: Created in Canva https://www.canva.com/
-Wireframe Mockup: Figma https://www.figma.com/
-Backround CSS Source : https://www.w3schools.com/cssref/pr_background-image.php
+** Color Hues : https://www.color-hex.com/
+** Backround Image: Created in Canva https://www.canva.com/
+** Wireframe Mockup: Figma https://www.figma.com/
+** Backround CSS Source : https://www.w3schools.com/cssref/pr_background-image.php
 
 
 
