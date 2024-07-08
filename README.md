@@ -7,7 +7,7 @@ In this repository portfolio I will show case the projects I have worked on with
 ## Prework-Study-guide
 My very first deployed reposotory
 I used HTML , CSS , JAVASCRIPT
-/Users/silvia/bootcamp/Digital-Journey/assets/pws.png
+
 
 
 ## Challenge-One
@@ -30,15 +30,15 @@ I had the privilege to contribute to a CSR startup within that journey
 I had a transformative experience! My goal is to nurture and showcase that unappreciated talent.
 
 # Contact 
--Email: silviavia209@gmail.com
--Website: https://s-via.github.io/Digital-Journey/
--Git Hub: https://github.com/S-via
+*-Email: silviavia209@gmail.com
+*-Website: https://s-via.github.io/Digital-Journey/
+*-Git Hub: https://github.com/S-via
 
 # References
-** Color Hues : https://www.color-hex.com/
-** Backround Image: Created in Canva https://www.canva.com/
-** Wireframe Mockup: Figma https://www.figma.com/
-** Backround CSS Source : https://www.w3schools.com/cssref/pr_background-image.php
+* Color Hues : https://www.color-hex.com/
+* Backround Image: Created in Canva https://www.canva.com/
+* Wireframe Mockup: Figma https://www.figma.com/
+* Backround CSS Source : https://www.w3schools.com/cssref/pr_background-image.php
 
 
 
