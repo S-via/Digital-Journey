@@ -7,7 +7,7 @@ In this repository portfolio I will show case the projects I have worked on with
 ## Prework-Study-guide
 My very first deployed reposotory
 I used HTML , CSS , JAVASCRIPT
-https://vscode.dev/github/S-via/Digital-Journey/blob/main/assets/pws.png
+/Users/silvia/bootcamp/Digital-Journey/assets/pws.png
 
 
 ## Challenge-One
