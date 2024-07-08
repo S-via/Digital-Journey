@@ -6,26 +6,21 @@ body
 {
     background-image: url("backroundbricks.jpg");
     background-size: cover;
-    
-    
      padding: 72px;
+     
+     
     }
    
-.head
+.title
 {
- 
-
+    text-align: center;
+font-family: 'Promt', 'courier', 'monospace';
+ font-size: 150px;
+ color:lightgrey;
 }
 
-.signature
-{
-    display:block;
-    width: 439px;
-    height: 253px;
-    border-radius: 5000px;
 
 
-}
 .nav
 {
 
@@ -44,18 +39,7 @@ justify-content: flex-end;
 
 }
 
-.title
-{
-    display:flex;
-    height:102px;
-    flex-wrap: nowrap;
-    
-    flex-direction: row;
-    align-items:flex-end;
-    
-    
-    height:102px;
-}
+
 
 main{}
 
