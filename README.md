@@ -18,8 +18,8 @@ My wireframe mockup to showcase my deployed portfolio with the skills i have gai
 I used HTML , CSS
 
 # Skills
-HTML
-CSS
+*HTML
+*CSS
 GIT 
 GIT HUB
 
