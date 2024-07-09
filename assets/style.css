@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding:0;
+    font-family: 'Times New Roman', Times, serif;
 }
 body
 {
@@ -10,14 +11,25 @@ body
      
      
     }
-   
-.title
+  
+
+.title 
 {
-    text-align: center;
-font-family: 'Promt', 'courier', 'monospace';
- font-size: 150px;
- color:lightgrey;
+
+padding-top: 150px ;
+padding-bottom: 150px ;
+font-family: Promt;
+text-align: center;
+letter-spacing: 6px;
+font-size: 150px;
+color:#d7dfe2;
+text-shadow: 2px 3px 2px #9aa0a2;
 }
+#DigitalJourney
+{
+    text-shadow: 2px 4px 2px
+    #104c59;}
+
 
 
 
@@ -25,19 +37,25 @@ font-family: 'Promt', 'courier', 'monospace';
 {
 
     display:flex;
-    flex-direction:row;
-justify-content: flex-end;
-    align-items: stretch;
+   justify-content:center;
+   align-items:center;
+   flex-direction: row;
+   flex-wrap:nowrap;
+   justify-content: space-evenly;
     
 }
 
 #link
 {
+    color:#104c59;
+    text-shadow: 1px 1px 10px;
+    text-decoration: none;
     display:flex;
     flex-wrap: wrap;
     width:86px;
 
 }
+#link:hover{color:#9aa0a2;}
 
 
 
