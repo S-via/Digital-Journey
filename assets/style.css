@@ -4,57 +4,42 @@
     font-family: 'Times New Roman', Times, serif;
 }
 body
-{
-    background-image: url("backroundbricks.jpg");
+{ background-image: url("backroundbricks.jpg");
     background-size: cover;
-     padding: 72px;
-     
-     
-    }
+     padding: 72px;}
   
 
 .title 
-{
-
-padding-top: 150px ;
+{ padding-top: 150px ;
 padding-bottom: 150px ;
 font-family: Promt;
 text-align: center;
 letter-spacing: 6px;
 font-size: 150px;
 color:#d7dfe2;
-text-shadow: 2px 3px 2px #9aa0a2;
-}
+text-shadow: 2px 3px 2px #9aa0a2;}
+
 #DigitalJourney
-{
-    text-shadow: 2px 4px 2px
-    #104c59;}
-
-
-
+ {text-shadow: 2px 4px 2px #104c59;}
 
 .nav
-{
-
-    display:flex;
+{display:flex;
    justify-content:center;
    align-items:center;
    flex-direction: row;
    flex-wrap:nowrap;
-   justify-content: space-evenly;
+   justify-content: space-evenly;}
     
-}
+
 
 #link
-{
-    color:#104c59;
+{color:#104c59;
     text-shadow: 1px 1px 10px;
     text-decoration: none;
     display:flex;
     flex-wrap: wrap;
-    width:86px;
+    width:86px;}
 
-}
 #link:hover{color:#9aa0a2;}
 
 
@@ -80,6 +65,7 @@ main{}
 
 }
 
+
 #contactme {}
 
 .contact
@@ -88,6 +74,9 @@ main{}
     width:67px;
 
 }
+
+#resume{}
+
 .Rightside
 {
     width: 500px;
@@ -99,14 +88,25 @@ main{}
     float: right;
     flex-direction: column;
     float:right;
+    
 }
-#aboutme
+
+
+#aboutme  
 { width: 465px;
     height:100px;
     background-color: greenyellow;
     border-radius: 51px;
-
 }
+
+h3 , h4
+{font-size:101px ;}
+
+p
+{font-size:33px ;}
+
+
+
 #work
 {
     width: 150px;
