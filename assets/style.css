@@ -44,21 +44,24 @@ text-shadow: 2px 3px 2px #9aa0a2;}
 
 
 
-main{}
+main{
+   
+}
 
 .leftside{
     
+    position:fixed;
     width: 432px;
     height:711px;
-    background-color: #104c59;
+    background-image: url("rightside.jpg");
     border-radius: 51px;
-    float:left;
+    
     
     
 }
 
 .myimage
-{
+{ 
     margin:0%;
     border-radius: 200mm;
     height:331px;
@@ -81,7 +84,7 @@ main{}
 {
     width: 500px;
     height:500px;
-    background-color: lightblue;
+    background-image: url("rightside.jpg");
     display:flex;
     justify-content: space-between;
     align-items: flex-end;
@@ -95,7 +98,7 @@ main{}
 #aboutme  
 { width: 1075px;
     height:100px;
-    background-color: greenyellow;
+    background-image:url("rightside.jpg");
     border-radius: 51px;
 }
 
@@ -112,9 +115,21 @@ line-height:61px;}
 {
     width: 975px;
     height:100px;
-    background-color: greenyellow;
+    background-image:url("rightside.jpg") ;
     border-radius: 51px;
 }
+.box{}
 
 .pws
-{}
+{
+    height: 1090px;
+    box-shadow:0px 0px 104px 22px;
+    color:dimgray;
+
+}
+.C1{
+    width:1300px;
+    height: 1090px;
+    box-shadow:0px 0px 104px 22px;
+    color:dimgray;
+}
