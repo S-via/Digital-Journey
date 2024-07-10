@@ -28,7 +28,8 @@ text-shadow: 2px 3px 2px #9aa0a2;}
    align-items:center;
    flex-direction: row;
    flex-wrap:nowrap;
-   justify-content: space-evenly;}
+   justify-content: space-evenly;
+height:75px;}
     
 
 
@@ -89,7 +90,7 @@ main{
     text-shadow: 1px 1px 10px;
     text-decoration: none;}
 
-#resume{}
+
 
 .Rightside
 {
@@ -129,7 +130,14 @@ line-height:61px;}
     background-image:url("backroundbricks.jpg") ;
     border-radius: 51px;
 }
-.box{}
+.article
+{
+
+display:flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
 
 .pws
 {
