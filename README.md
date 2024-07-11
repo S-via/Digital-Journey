@@ -19,6 +19,8 @@ I used HTML , CSS , JAVASCRIPT
 ## Digital-Journey
 My wireframe mockup to showcase my deployed portfolio with the skills i have gain and too improve
 I used HTML , CSS
+![DigitalJourney](/assets/Wireframe.png)
+
 
 # Skills
 * HTML
@@ -41,6 +43,9 @@ I had a transformative experience! My goal is to nurture and showcase that unapp
 * Backround Image: Created in Canva https://www.canva.com/
 * Wireframe Mockup: Figma https://www.figma.com/
 * Backround CSS Source : https://www.w3schools.com/cssref/pr_background-image.php
+* Text shadow : https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals
+* Text decoration: https://blog.hubspot.com/website/remove-underline-from-links-css
+* Backround img: https://www.pexels.com/search/background/
 
 
 
