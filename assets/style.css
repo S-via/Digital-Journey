@@ -3,8 +3,15 @@
     padding:0;
     font-family: 'Times New Roman', Times, serif;
 }
-body
-{ background-image: url("backroundbricks.jpg");
+
+
+
+
+
+
+
+body 
+{  background-image: url("backroundbricks.jpg");
     background-size: cover;
      padding: 72px;}
   
@@ -45,22 +52,26 @@ height:75px;}
 
 
 
+    
+
 main{
    
 }
+    
 
 .leftside{
     
-    position:absolute;
-    width: 432px;
-    height:776px;
-    background-image: url("rightside.jpg");
+    position:static;
+    width: fit-content;
+    height:fit-content;
+    
     border-radius: 51px;
     text-align: center;
     display:flex;
     flex-direction:column;
     flex-wrap: nowrap;
     justify-content: space-around;
+    float:left;
     
     
     
